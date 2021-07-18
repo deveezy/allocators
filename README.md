@@ -1,6 +1,6 @@
 # allocators
 
-[x] Simple free list allocator
-[ ] Linear Allocator
-[ ] Stack Allocator
-[ ] Pool Allocator
+- [x] Simple free list allocator
+- [ ] Linear Allocator
+- [ ] Stack Allocator
+- [ ] Pool Allocator
